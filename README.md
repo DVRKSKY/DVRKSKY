@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amadeo Flores</h1>
 <h3 align="center">Full Stack Developer | Marketer | Gamer</h3>
 
-- 🔭 I’m currently working on [Agronotas](www.agronotas.web.app)
+- 🔭 I need **work**
 
-- 🌱 I’m currently learning **React native**
+- I consider myself an autodidact passionate about constantly learning. I am always looking for new skills and knowledge🎓. I like anime 👻 and video games🎮
 
-- 👯 I’m looking to collaborate on **some proyect to learn and practice**
+- Currently, I am looking for **job opportunities** as a programmer in companies or startups. My value proposition lies in my experience as an entrepreneur and my marketing skills, which makes my projects as a programmer easier to sell. 💡💪
 
 - 👨‍💻 All of my projects are available at [https://github.com/DVRKSKY](https://github.com/DVRKSKY)
 
